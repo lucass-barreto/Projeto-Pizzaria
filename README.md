@@ -1,4 +1,4 @@
-Este projeto representa a conclusão do curso de SQL "Hora de Codar", onde aprofundei meus conhecimentos em bancos de dados relacionais utilizando MySQL. Ao longo do curso, explorei os fundamentos e técnicas avançadas de SQL, incluindo:
+Este projeto representa a conclusão do curso de SQL do Hora de Codar, onde aprofundei meus conhecimentos em bancos de dados relacionais utilizando MySQL. Ao longo do curso, explorei os fundamentos e técnicas avançadas de SQL, incluindo:
 
     Criação e manipulação de tabelas: Definição de estruturas de dados, tipos de dados e constraints para garantir a integridade do banco de dados.
     Operações CRUD (Create, Read, Update, Delete): Implementação de consultas SQL para inserir, recuperar, atualizar e excluir dados de forma eficiente.
