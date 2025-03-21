@@ -46,6 +46,6 @@ Este projeto demonstra minha capacidade de entregar soluções de banco de dados
 ## Contato
 
 * Lucas Barreto Oliveira
-* GitHub: \[@lucass-barreto](https://github.com/lucass-barreto)
-* LinkedIn: \[@lucass-barreto](https://www.linkedin.com/in/lucass-barreto/)
+* GitHub: [@lucass-barreto](https://github.com/lucass-barreto)
+* LinkedIn: [@lucass-barreto](https://www.linkedin.com/in/lucass-barreto/)
 * Email: lucasbo.dev@gmail.com
